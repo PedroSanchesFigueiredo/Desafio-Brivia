@@ -9,7 +9,7 @@ Instalação
 Clone o repositório:
 
 bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/PedroSanchesFigueiredo/Desafio-Brivia.git
 cd seu-repositorio
 Crie um ambiente virtual:
 
